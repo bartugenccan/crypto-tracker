@@ -1,5 +1,5 @@
 # Crypto Tracker
-
+<div>
 <h1>
         This is a Crypto Tracker app that shows current Coin status. I used
         CoinGecko API to render coins.
@@ -11,4 +11,5 @@
           https://crypto-tracker-epmjn00l8-bartugenccan.vercel.app/
         </a>
       </h3>
+                                                                           </div>
 
