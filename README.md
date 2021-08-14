@@ -4,6 +4,7 @@
         This is a Crypto Tracker app that shows current Coin status. I used
         CoinGecko API to render coins.
       </h1>
+      <img  src="./public/images/Coin Tracker alt="Coin" />
       <h3>
         Demo :
         <a href="https://crypto-tracker-epmjn00l8-bartugenccan.vercel.app/">
